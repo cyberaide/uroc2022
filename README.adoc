@@ -1,3 +1,8 @@
+:toc:
+:toclevels: 4
+
+:sectnums:
+
 # uroc2022
 
 |===
@@ -5,10 +10,7 @@
 | Myles Soladine | mysoladi@iu.edu |
 | Jufeng Wu | wujunf@iu.edu |
 |===
-:toc:
-:toclevels: 4
 
-:sectnums:
 
 ## Week 1 (Jan 27, 2022)
 
