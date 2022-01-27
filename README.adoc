@@ -14,22 +14,19 @@
 ## Calendar
 
 * Full term: Monday, January 10, 2022 - Friday, May 6, 2022
-* Evaluation: Sat Feb 19, 2022
-* Spring brek: Sa Mar 12 - Su Mar 20, 2022. THis is a good time to catch up with things in general. 
+* Spring brek: Sa Mar 12 - Su Mar 20, 2022. This is a good time to catch up with things in general. 
+  Other classes may require you to do this. Spend your time wisely.
+* Poster presentation: ???? Ask Lamara and let me know 
 
-* Poster presentation: ???? Ask lamara and let me know 
-* Last Meeting with Gregor Thus May 5th, 2022
-* Gregor evaluates project achievement: Friday May 7th
-* Grade entry: Tu May 10
 
 Please check dates and correct if you see mistakes
 
 |===
 | Week | Date | Event 
-| Week 1 | Jan 28 | 
-| Week 2 | Feb 04
-| Week 3 | Feb 11 | Evaluation to Lamara
-| Week 4 | Feb 18 |
+| Week 1 | Jan 28 | set up computer, python, pycharm, develop scatter plot for temperature in matplotlib and seaborn 
+| Week 2 | Feb 04 |
+| Week 3 | Feb 11 | 
+| Week 4 | Feb 18 | Evaluation to Lamara, Sat Feb 19
 | Week 5 | Feb 25 |
 | Week 6 | Mar 04 |
 | Week 7 | Mar 11 | Midterm report due, program review
