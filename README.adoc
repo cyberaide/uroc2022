@@ -6,10 +6,45 @@
 # uroc2022
 
 |===
-| Gregor vn Laszewski |  laszewski@gmail.com |
+| Gregor von Laszewski |  laszewski@gmail.com |
 | Myles Soladine | mysoladi@iu.edu |
 | Jufeng Wu | wujunf@iu.edu |
 |===
+
+## Calendar
+
+* Full term: Monday, January 10, 2022 - Friday, May 6, 2022
+* Evaluation: Sat Feb 19, 2022
+* Spring brek: Sa Mar 12 - Su Mar 20, 2022. THis is a good time to catch up with things in general. 
+
+* Poster presentation: ???? Ask lamara and let me know 
+* Last Meeting with Gregor Thus May 5th, 2022
+* Gregor evaluates project achievement: Friday May 7th
+* Grade entry: Tu May 10
+
+Please check dates and correct if you see mistakes
+
+|===
+| Week | Date | Event 
+| Week 1 | Jan 28 | 
+| Week 2 | Feb 04
+| Week 3 | Feb 11 | Evaluation to Lamara
+| Week 4 | Feb 18 |
+| Week 5 | Feb 25 |
+| Week 6 | Mar 04 |
+| Week 7 | Mar 11 | Midterm report due, program review
+| Week 8 | Mar 18 | Spring break, but we will meet if you are available
+| Week 9 | Mar 24 |
+| Week 10 | Apr 01 |
+| Week 11 | Apr 08 |
+| Week 12 | Apr 15 |
+| Week 13 | Apr 22 |
+| Week 14 | Apr 29 | Poster due
+| Week 15 | May 06 | Last meeting, Final report and program dues
+|         | May 07 moring, Last posibility to make project moddifications for grades 
+|         | May 07 | Gregor identifyies Grades and submits to Lamara
+|===
+
 
 
 ## Week 1 (Jan 27, 2022)
