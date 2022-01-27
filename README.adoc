@@ -19,7 +19,7 @@ Jufeng
 2. What have I not achieved this week (some bullets you may have)
 3. What are we planing to achieve next week
 
-## Week 1 (in preparation for Fri 4pm meeting)
+## Week 0 (in preparation for Week 1 meeting)
 
 * get organized
 * install python 3.10.2 in a venv (find out what it is, create documentation)
@@ -67,3 +67,8 @@ In every meeting we will try to answer the following question
 
 4. How does this activity fit in with the overall goal of the project.
 	e.g. once I know on Friday what you can do we set a schedule
+	
+# Attendance
+
+Week 0: Myles, Thu Jan 27 2022, Jufeng Tue Jann 25 2022
+Week 1: Jan 28, 2022. 
