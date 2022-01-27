@@ -1,8 +1,10 @@
 # uroc2022
 
-Myles Soladine mysoladi@iu.edu
-Jufeng Wu wujunf@iu.edu
-
+|===
+| Gregor vn Laszewski |  laszewski@gmail.com |
+| Myles Soladine | mysoladi@iu.edu |
+| Jufeng Wu | wujunf@iu.edu |
+|===
 :toc:
 :toclevels: 4
 
