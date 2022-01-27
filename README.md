@@ -1,6 +1,6 @@
 # uroc2022
 
-## Week 1
+## Week 1 (in preparation for Fri 4pm meeting)
 
 * get organized
 * install python 3.10.2 in a venv (find out what it is, create documentation)
