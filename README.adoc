@@ -68,7 +68,7 @@ In every meeting we will try to answer the following question
 4. How does this activity fit in with the overall goal of the project.
 	e.g. once I know on Friday what you can do we set a schedule
 	
-# Attendance
+## Attendance
 
-Week 0: Myles, Thu Jan 27 2022, Jufeng Tue Jann 25 2022
-Week 1: Jan 28, 2022. 
+* Week 0: Myles, Thu Jan 27 2022, Jufeng Tue Jann 25 2022
+* Week 1: Jan 28, 2022. 
