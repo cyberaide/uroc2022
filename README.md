@@ -14,7 +14,9 @@ Assignments
 	* write some programs in matplotlib and seaborn to plot xy scatterplots … or something like that
 	  use real data such as outside temperature in bloomington IN over the day (look up on some weather app)
 
-Notes taken by Myles in regrds to the asignments
+Notes taken by Myles in regrds to the asignments (windows 10)
+
+Create documentation on how to install all of this on windows, be brief.
 
 * python 3.10.2 *
 * pycharm community (pro free)*
