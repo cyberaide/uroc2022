@@ -21,14 +21,16 @@
 
 Please check dates and correct if you see mistakes
 
+Please create documentation for each step you do, such as install python and so on ... do it in markdown or asciidoc. Asciidoc has advantage that you can do a table of content and numbered sections easliy.
+
 |===
 | Week | Date | Event | Python
 | Week 1 | Jan 28 | set up computer | python, pycharm, develop scatter plot for temperature in matplotlib and seaborn 
 | Week 2 | Feb 04 | | dicts, functions, classes, jupyter lab (not jupyter notebook)
 | Week 3 | Feb 11 | | staticmethods, classmethods, regular methods, cloudmesh sys command generate
-| Week 4 | Feb 18 | Evaluation to Lamara, Sat Feb 19 | FastAPI
-| Week 5 | Feb 25 | | develop methods to start stop a rest service via cloudmesh commandline 
-| Week 6 | Mar 04 | | develop class that you can access via cloudmesh
+| Week 4 | Feb 18 | Evaluation to Lamara, Sat Feb 19 | FastAPI in 5 minutes
+| Week 5 | Feb 25 | | develop methods to start stop a rest service via cloudmesh commandline in 5 minutes
+| Week 6 | Mar 04 | | develop class that you can access via cloudmesh in 30 minutes
 | Week 7 | Mar 11 | Midterm report due, program review | you will now most all of python that you will need for the project.
 | Week 8 | Mar 18 | Spring break, but we will meet if you are available |
 | Week 9 | Mar 24 | |
