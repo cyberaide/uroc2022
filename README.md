@@ -1,5 +1,9 @@
 # uroc2022
 
+Myles Soladine mysoladi@iu.edu
+Jufeng Wu wujunf@iu.edu
+
+
 ## Week 1 (in preparation for Fri 4pm meeting)
 
 * get organized
