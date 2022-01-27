@@ -17,19 +17,19 @@
 * Spring brek: Sa Mar 12 - Su Mar 20, 2022. This is a good time to catch up with things in general. 
   Other classes may require you to do this. Spend your time wisely.
 * Poster presentation: ???? Ask Lamara and let me know 
-
+* I added a column pyton to make sure that you review the python features as we will use them in the project. You may need to set some time asside for it. If you are familiar with the concepts, let me know and we can do other things. Remember that what we do in python is just a refreser and you should know it. Adding it here will guide you on what you should already know. The cloudmesh activities are in addition, but trivial. The will safe you hours upon hours of work. 
 
 Please check dates and correct if you see mistakes
 
 |===
-| Week | Date | Event 
-| Week 1 | Jan 28 | set up computer, python, pycharm, develop scatter plot for temperature in matplotlib and seaborn 
-| Week 2 | Feb 04 |
-| Week 3 | Feb 11 | 
-| Week 4 | Feb 18 | Evaluation to Lamara, Sat Feb 19
-| Week 5 | Feb 25 |
-| Week 6 | Mar 04 |
-| Week 7 | Mar 11 | Midterm report due, program review
+| Week | Date | Event | Python
+| Week 1 | Jan 28 | set up computer | python, pycharm, develop scatter plot for temperature in matplotlib and seaborn 
+| Week 2 | Feb 04 | | dicts, functions, classes, jupyter lab (not jupyter notebook)
+| Week 3 | Feb 11 | | staticmethods, classmethods, regular methods, cloudmesh sys command generate
+| Week 4 | Feb 18 | Evaluation to Lamara, Sat Feb 19 | FastAPI
+| Week 5 | Feb 25 | | develop methods to start stop a rest service via cloudmesh commandline 
+| Week 6 | Mar 04 | | develop class that you can access via cloudmesh
+| Week 7 | Mar 11 | Midterm report due, program review | you will now mosta ll of python that you will need for the project.
 | Week 8 | Mar 18 | Spring break, but we will meet if you are available
 | Week 9 | Mar 24 |
 | Week 10 | Apr 01 |
