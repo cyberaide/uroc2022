@@ -3,6 +3,21 @@
 Myles Soladine mysoladi@iu.edu
 Jufeng Wu wujunf@iu.edu
 
+:toc:
+
+## Week 1 (Jan 27, 2022)
+
+Myles
+
+1. What have I achieved this week (some bullets you will have)
+2. What have I not achieved this week (some bullets you may have)
+3. What are we planing to achieve next week
+
+Jufeng
+
+1. What have I achieved this week (some bullets you will have)
+2. What have I not achieved this week (some bullets you may have)
+3. What are we planing to achieve next week
 
 ## Week 1 (in preparation for Fri 4pm meeting)
 
